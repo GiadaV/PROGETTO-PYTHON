@@ -12,4 +12,4 @@ Oltre all'ottimizzazione statica, i pesi ottimali di portafoglio sono calcolati 
 
 Per ogni algoritmo di *clustering*, i risultati delle stime statiche e *rolling* sono confrontati al fine di calcolare l'extrarendimento dovuto al ribilanciamento.
 
-I rendimenti generati da ogni portafoglio di *clustering* sono confrontati *out of sample* con il portafoglio di tangenza, ottenuto applicando la stessa metodologia sopra descritta all'intero universo di *asset*, e con un portafoglio *equally weighted*. Si confrontano sia gli extrarendimenti cumulati rispetto ad un tasso privo di rischio che i rendimenti corretti per il rischio. 
+I rendimenti generati da ogni portafoglio di *clustering* sono confrontati *out of sample* con il portafoglio di tangenza e con un portafoglio *equally weighted*. Si confrontano sia gli extrarendimenti cumulati rispetto ad un tasso privo di rischio che i rendimenti corretti per il rischio. 
